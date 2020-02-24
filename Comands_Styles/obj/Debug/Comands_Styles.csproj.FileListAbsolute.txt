@@ -1,0 +1,84 @@
+C:\Users\User\source\repos\Comands_Styles\Comands_Styles\bin\Debug\Comands_Styles.exe.config
+C:\Users\User\source\repos\Comands_Styles\Comands_Styles\bin\Debug\Comands_Styles.exe
+C:\Users\User\source\repos\Comands_Styles\Comands_Styles\bin\Debug\Comands_Styles.pdb
+C:\Users\User\source\repos\Comands_Styles\Comands_Styles\obj\Debug\Comands_Styles.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Comands_Styles\Comands_Styles\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\Comands_Styles\Comands_Styles\obj\Debug\App.g.cs
+C:\Users\User\source\repos\Comands_Styles\Comands_Styles\obj\Debug\Comands_Styles_MarkupCompile.cache
+C:\Users\User\source\repos\Comands_Styles\Comands_Styles\obj\Debug\Comands_Styles_MarkupCompile.lref
+C:\Users\User\source\repos\Comands_Styles\Comands_Styles\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\Comands_Styles\Comands_Styles\obj\Debug\Comands_Styles.g.resources
+C:\Users\User\source\repos\Comands_Styles\Comands_Styles\obj\Debug\Comands_Styles.Properties.Resources.resources
+C:\Users\User\source\repos\Comands_Styles\Comands_Styles\obj\Debug\Comands_Styles.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Comands_Styles\Comands_Styles\obj\Debug\Comands_Styles.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Comands_Styles\Comands_Styles\obj\Debug\Comands_Styles.exe
+C:\Users\User\source\repos\Comands_Styles\Comands_Styles\obj\Debug\Comands_Styles.pdb
+C:\Users\User\source\repos\Comands_Styles\Comands_Styles\bin\Debug\ControlzEx.dll
+C:\Users\User\source\repos\Comands_Styles\Comands_Styles\bin\Debug\MahApps.Metro.dll
+C:\Users\User\source\repos\Comands_Styles\Comands_Styles\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\User\source\repos\Comands_Styles\Comands_Styles\bin\Debug\ControlzEx.pdb
+C:\Users\User\source\repos\Comands_Styles\Comands_Styles\bin\Debug\MahApps.Metro.pdb
+C:\Users\User\source\repos\Comands_Styles\Comands_Styles\bin\Debug\MahApps.Metro.xml
+C:\Users\User\source\repos\Comands_Styles\Comands_Styles\obj\Debug\Comands_Styles.csproj.CopyComplete
+C:\Users\User\source\repos\Comands_Styles\Comands_Styles\obj\Debug\App.baml
+C:\Users\User\source\repos\Comands_Styles\Comands_Styles\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\User\source\repos\Comands_Styles\Comands_Styles\bin\Debug\taglib-sharp.dll
+C:\Users\User\source\repos\Comands_Styles\Comands_Styles\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\User\source\repos\Comands_Styles\Comands_Styles\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\User\source\repos\Comands_Styles\Comands_Styles\bin\Debug\Microsoft.WindowsAPICodePack.xml
+D:\For programming\MyProjects\repos\wpf AudioPlayer\Comands_Styles\bin\Debug\Comands_Styles.exe.config
+D:\For programming\MyProjects\repos\wpf AudioPlayer\Comands_Styles\bin\Debug\Comands_Styles.exe
+D:\For programming\MyProjects\repos\wpf AudioPlayer\Comands_Styles\bin\Debug\Comands_Styles.pdb
+D:\For programming\MyProjects\repos\wpf AudioPlayer\Comands_Styles\bin\Debug\ControlzEx.dll
+D:\For programming\MyProjects\repos\wpf AudioPlayer\Comands_Styles\bin\Debug\MahApps.Metro.dll
+D:\For programming\MyProjects\repos\wpf AudioPlayer\Comands_Styles\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\For programming\MyProjects\repos\wpf AudioPlayer\Comands_Styles\bin\Debug\policy.2.0.taglib-sharp.dll
+D:\For programming\MyProjects\repos\wpf AudioPlayer\Comands_Styles\bin\Debug\System.Windows.Interactivity.dll
+D:\For programming\MyProjects\repos\wpf AudioPlayer\Comands_Styles\bin\Debug\taglib-sharp.dll
+D:\For programming\MyProjects\repos\wpf AudioPlayer\Comands_Styles\bin\Debug\ControlzEx.pdb
+D:\For programming\MyProjects\repos\wpf AudioPlayer\Comands_Styles\bin\Debug\MahApps.Metro.pdb
+D:\For programming\MyProjects\repos\wpf AudioPlayer\Comands_Styles\bin\Debug\MahApps.Metro.xml
+D:\For programming\MyProjects\repos\wpf AudioPlayer\Comands_Styles\bin\Debug\Microsoft.WindowsAPICodePack.xml
+D:\For programming\MyProjects\repos\wpf AudioPlayer\Comands_Styles\bin\Debug\policy.2.0.taglib-sharp.config
+D:\For programming\MyProjects\repos\wpf AudioPlayer\Comands_Styles\obj\Debug\Comands_Styles.csprojAssemblyReference.cache
+D:\For programming\MyProjects\repos\wpf AudioPlayer\Comands_Styles\obj\Debug\MainWindow.g.cs
+D:\For programming\MyProjects\repos\wpf AudioPlayer\Comands_Styles\obj\Debug\App.g.cs
+D:\For programming\MyProjects\repos\wpf AudioPlayer\Comands_Styles\obj\Debug\Comands_Styles_MarkupCompile.cache
+D:\For programming\MyProjects\repos\wpf AudioPlayer\Comands_Styles\obj\Debug\Comands_Styles_MarkupCompile.lref
+D:\For programming\MyProjects\repos\wpf AudioPlayer\Comands_Styles\obj\Debug\App.baml
+D:\For programming\MyProjects\repos\wpf AudioPlayer\Comands_Styles\obj\Debug\MainWindow.baml
+D:\For programming\MyProjects\repos\wpf AudioPlayer\Comands_Styles\obj\Debug\Comands_Styles.g.resources
+D:\For programming\MyProjects\repos\wpf AudioPlayer\Comands_Styles\obj\Debug\Comands_Styles.Properties.Resources.resources
+D:\For programming\MyProjects\repos\wpf AudioPlayer\Comands_Styles\obj\Debug\Comands_Styles.csproj.GenerateResource.cache
+D:\For programming\MyProjects\repos\wpf AudioPlayer\Comands_Styles\obj\Debug\Comands_Styles.csproj.CoreCompileInputs.cache
+D:\For programming\MyProjects\repos\wpf AudioPlayer\Comands_Styles\obj\Debug\Comands_Styles.csproj.CopyComplete
+D:\For programming\MyProjects\repos\wpf AudioPlayer\Comands_Styles\obj\Debug\Comands_Styles.exe
+D:\For programming\MyProjects\repos\wpf AudioPlayer\Comands_Styles\obj\Debug\Comands_Styles.pdb
+E:\For programming\MyProjects\repos\wpf AudioPlayer\Comands_Styles\bin\Debug\Comands_Styles.exe.config
+E:\For programming\MyProjects\repos\wpf AudioPlayer\Comands_Styles\bin\Debug\Comands_Styles.exe
+E:\For programming\MyProjects\repos\wpf AudioPlayer\Comands_Styles\bin\Debug\Comands_Styles.pdb
+E:\For programming\MyProjects\repos\wpf AudioPlayer\Comands_Styles\bin\Debug\ControlzEx.dll
+E:\For programming\MyProjects\repos\wpf AudioPlayer\Comands_Styles\bin\Debug\MahApps.Metro.dll
+E:\For programming\MyProjects\repos\wpf AudioPlayer\Comands_Styles\bin\Debug\Microsoft.WindowsAPICodePack.dll
+E:\For programming\MyProjects\repos\wpf AudioPlayer\Comands_Styles\bin\Debug\policy.2.0.taglib-sharp.dll
+E:\For programming\MyProjects\repos\wpf AudioPlayer\Comands_Styles\bin\Debug\System.Windows.Interactivity.dll
+E:\For programming\MyProjects\repos\wpf AudioPlayer\Comands_Styles\bin\Debug\taglib-sharp.dll
+E:\For programming\MyProjects\repos\wpf AudioPlayer\Comands_Styles\bin\Debug\ControlzEx.pdb
+E:\For programming\MyProjects\repos\wpf AudioPlayer\Comands_Styles\bin\Debug\MahApps.Metro.pdb
+E:\For programming\MyProjects\repos\wpf AudioPlayer\Comands_Styles\bin\Debug\MahApps.Metro.xml
+E:\For programming\MyProjects\repos\wpf AudioPlayer\Comands_Styles\bin\Debug\Microsoft.WindowsAPICodePack.xml
+E:\For programming\MyProjects\repos\wpf AudioPlayer\Comands_Styles\bin\Debug\policy.2.0.taglib-sharp.config
+E:\For programming\MyProjects\repos\wpf AudioPlayer\Comands_Styles\obj\Debug\Comands_Styles.csprojAssemblyReference.cache
+E:\For programming\MyProjects\repos\wpf AudioPlayer\Comands_Styles\obj\Debug\MainWindow.g.cs
+E:\For programming\MyProjects\repos\wpf AudioPlayer\Comands_Styles\obj\Debug\App.g.cs
+E:\For programming\MyProjects\repos\wpf AudioPlayer\Comands_Styles\obj\Debug\Comands_Styles_MarkupCompile.cache
+E:\For programming\MyProjects\repos\wpf AudioPlayer\Comands_Styles\obj\Debug\Comands_Styles_MarkupCompile.lref
+E:\For programming\MyProjects\repos\wpf AudioPlayer\Comands_Styles\obj\Debug\App.baml
+E:\For programming\MyProjects\repos\wpf AudioPlayer\Comands_Styles\obj\Debug\MainWindow.baml
+E:\For programming\MyProjects\repos\wpf AudioPlayer\Comands_Styles\obj\Debug\Comands_Styles.g.resources
+E:\For programming\MyProjects\repos\wpf AudioPlayer\Comands_Styles\obj\Debug\Comands_Styles.Properties.Resources.resources
+E:\For programming\MyProjects\repos\wpf AudioPlayer\Comands_Styles\obj\Debug\Comands_Styles.csproj.GenerateResource.cache
+E:\For programming\MyProjects\repos\wpf AudioPlayer\Comands_Styles\obj\Debug\Comands_Styles.csproj.CopyComplete
+E:\For programming\MyProjects\repos\wpf AudioPlayer\Comands_Styles\obj\Debug\Comands_Styles.exe
+E:\For programming\MyProjects\repos\wpf AudioPlayer\Comands_Styles\obj\Debug\Comands_Styles.pdb
+E:\For programming\MyProjects\repos\wpf AudioPlayer\Comands_Styles\obj\Debug\Comands_Styles_Content.g.cs
